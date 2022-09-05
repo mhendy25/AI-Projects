@@ -16,7 +16,7 @@ Wrote basic ML regression codes.
 Wrote different Python OOP structures to organize data for a bank account case.
 ##
 ## [Research](https://github.com/hendyy25/AI-Projects/tree/main/Research)
-Collected basic information on software engineering and different search algorithms
+Collected basic information on software engineering and different search algorithms.
 
 ##
 ## [Web Scrapping](https://github.com/hendyy25/AI-Projects/tree/main/Web%20Scraping)
