@@ -9,7 +9,6 @@ I learned Python regular expressions and transformed ugly-looking data into clea
 ## [Data Science Tools](https://github.com/hendyy25/AI-Projects/tree/main/Data_Science_Tools)
 Studied different Python libraries on various datasets. Those libraries are Numpy, Pandas, Matplotlib, OpenCV, and others for audio processing. Each library has a Jupyter Notebook for its code and visualizations.
 ## 
-##
 ## [Python OOP](https://github.com/hendyy25/AI-Projects/tree/main/Python%20OOP)
 Wrote different Python OOP structures to organize data for a bank account case.
 ##
